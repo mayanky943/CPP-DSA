@@ -10,6 +10,7 @@ long pow(long base,long power){
     return ans;
 }
 
+
 int main() {
 	// Write your code here
 	long n;
@@ -17,6 +18,5 @@ int main() {
     string str="";
     while(n>0){
         
-    }
-    
+    }  
 }
